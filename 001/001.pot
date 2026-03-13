@@ -1,0 +1,303 @@
+# Higurashi script localisation — Arabic translation
+# Copyright (C) 2026 The Project Contributors
+# This file is distributed under the same licence as the project.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: higurashi-arabic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-13 14:28\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+#: 001.txt:54
+#. JP: どうせ引き裂かれるなら、
+msgid "If I was going to be ripped apart anyways,"
+msgstr ""
+
+#: 001.txt:58
+#. JP: 身を引き裂かされる方がはるかにマシだと思った。
+msgid "having my body ripped apart would've been far better."
+msgstr ""
+
+#: 001.txt:69
+#. JP: 信じてた。
+msgid "I trusted her."
+msgstr ""
+
+#: 001.txt:80
+#. JP: …いや、信じてる。
+msgid "...No, I still trust her."
+msgstr ""
+
+#: 001.txt:91
+#. JP: 今この瞬間だって、信じてる。
+msgid "Even in this very moment, I trust her."
+msgstr ""
+
+#: 001.txt:104
+#. JP: でも…薄々は気付いてる。
+msgid "But... I'm starting to realize."
+msgstr ""
+
+#: 001.txt:111
+#. JP: 信じたいのは、認めたくないだけだからだ。
+msgid "I only wanted to trust her because I refused to accept the truth."
+msgstr ""
+
+#: 001.txt:122
+#. JP: 自分に言い聞かせるような、
+msgid "It was as if I was trying to convince myself,"
+msgstr ""
+
+#: 001.txt:127
+#. JP: そんな涙声が…もうたまらなく馬鹿馬鹿しくて…。
+msgid "in such a silly... sobbing voice..."
+msgstr ""
+
+#: 001.txt:138
+#. JP: さらなる涙が…顔をもっとぐしゃぐしゃにする…。
+msgid "And those tears... those tears making a mess of my face..."
+msgstr ""
+
+#: 001.txt:146
+#. JP: 機械的に繰り返されていたそれはようやく収まり、とても静かになった。
+msgid "That mechanical, repetitious sound finally stilled, and everything fell silent."
+msgstr ""
+
+#: 001.txt:156
+#. JP: ひぐらしの声だけが…いやに騒がしい。
+msgid "Only the cry of the cicadas remained, annoyingly loud."
+msgstr ""
+
+#: 001.txt:163
+#. JP: なのに、
+msgid "And yet..."
+msgstr ""
+
+#: 001.txt:170
+#. JP: …彼女のそれはまだ聞こえる気がする。
+msgid "...I felt as if I could still hear her voice."
+msgstr ""
+
+#: 001.txt:177
+#. JP: …聞こえるはずはない。
+msgid "...But that's not possible."
+msgstr ""
+
+#: 001.txt:184
+#. JP: 彼女はもう、言うのをやめているのだから。
+msgid "She is no longer speaking."
+msgstr ""
+
+#: 001.txt:193
+#. JP: 泣いているのは俺だけだった。
+msgid "The only one crying is me."
+msgstr ""
+
+#: 001.txt:200
+#. JP: 彼女は泣きもしなかった。
+msgid "She never cried."
+msgstr ""
+
+#: 001.txt:209
+#. JP: 彼女がそれを繰り返し口にしていた時も、表情どころか感情もなかった。
+msgid "Even when she repeated those words over and over, she never expressed any emotion, because there were none to show."
+msgstr ""
+
+#: 001.txt:215
+#. JP: 彼女に、俺のために流す涙がないのなら、
+msgid "If she had no tears to shed for me,"
+msgstr ""
+
+#: 001.txt:218
+#. JP: 俺にだって。
+msgid "then I..."
+msgstr ""
+
+#: 001.txt:223
+#. JP: …彼女らのために流す涙はいらないはずなのだ。
+msgid "shouldn't need to shed any for her."
+msgstr ""
+
+#: 001.txt:230
+#. JP: それなのに…痛み、目を潤ませてしまうのは…どうして？
+msgid "Then why... this pain, my eyes getting moist... why was this happening?"
+msgstr ""
+
+#: 001.txt:237
+#. JP: それでも引き裂かれてないと、…信じていたいから。
+msgid "I still wanted to believe... I hadn't been split apart."
+msgstr ""
+
+#: 001.txt:246
+#. JP: もう充分だろ？
+msgid "That's enough, right?"
+msgstr ""
+
+#: 001.txt:253
+#. JP: 内なる、もうひとりの自分がやさしく語りかける…。
+msgid "Inside me, an inner voice whispered gently..."
+msgstr ""
+
+#: 001.txt:262
+#. JP: 俺はもう充分に心を痛めたさ。
+msgid "My spirit had suffered enough..."
+msgstr ""
+
+#: 001.txt:269
+#. JP: …そして何度も、その痛む心を捨てるべきかどうか迷ったんだ。
+msgid "...and countless times I'd wavered over whether I should just throw the battered thing away."
+msgstr ""
+
+#: 001.txt:276
+#. JP: だけど俺は…頑なに、捨てることを拒んだんじゃないか。
+msgid "Except... I've stubbornly refused to do that, haven't I?"
+msgstr ""
+
+#: 001.txt:285
+#. JP: 捨てれば…もっと心が楽になれる…。
+msgid "I'd feel better if I just threw it away."
+msgstr ""
+
+#: 001.txt:292
+#. JP: それを知りながらも、俺は信じることを選んだんじゃないか。
+msgid "Even knowing that, I chose to believe, didn't I?"
+msgstr ""
+
+#: 001.txt:299
+#. JP: その辛かった苦労は、きっと俺にしかわからないし、俺にしかねぎらえない。
+msgid "Only I can understand that painful struggle, and appreciate it."
+msgstr ""
+
+#: 001.txt:309
+#. JP: なぁ俺。
+msgid "Hey, me?"
+msgstr ""
+
+#: 001.txt:316
+#. JP: …俺は充分に頑張った。
+msgid "...I've tried more than enough."
+msgstr ""
+
+#: 001.txt:323
+#. JP: …俺がそれを認めてやる。
+msgid "...I'll acknowledge that much."
+msgstr ""
+
+#: 001.txt:330
+#. JP: だから。
+msgid "So..."
+msgstr ""
+
+#: 001.txt:337
+#. JP: …もう楽になってもいいんじゃないか…？
+msgid "...Isn't it all right to just take the easy way out?"
+msgstr ""
+
+#: 001.txt:347
+#. JP: それに…捨てるんじゃない。
+msgid "Besides... I'm not throwing it away."
+msgstr ""
+
+#: 001.txt:354
+#. JP: 彼女と一緒に、置いていくんだ。
+msgid "I'm leaving it behind, with her."
+msgstr ""
+
+#: 001.txt:364
+#. JP: …花を手向けるように。
+msgid "...Like flowers by a grave."
+msgstr ""
+
+#: 001.txt:373
+#. JP: さぁ。
+msgid "Now then."
+msgstr ""
+
+#: 001.txt:380
+#. JP: …心を落ち着けて…。
+msgid "...Calm your nerves."
+msgstr ""
+
+#: 001.txt:387
+#. JP: もう右腕が痺れているだろうけど。
+msgid "Even though you can't feel your right arm."
+msgstr ""
+
+#: 001.txt:394
+#. JP: …頑張って振り上げよう。
+msgid "...Just lift it up."
+msgstr ""
+
+#: 001.txt:401
+#. JP: ひとつ振る度に忘れるんだ。
+msgid "And with every swing, forget a little more."
+msgstr ""
+
+#: 001.txt:415
+#. JP: 親切が、うれしかった。
+msgid "That kindness made me happy."
+msgstr ""
+
+#: 001.txt:426
+#. JP: 愛らしい笑顔がうれしかった。
+msgid "That adorable smile brought me joy."
+msgstr ""
+
+#: 001.txt:437
+#. JP: 頭を撫でるのが、好きだった。
+msgid "I liked petting your head."
+msgstr ""
+
+#: 001.txt:448
+#. JP: そんな君がはにかむのが、好きだった。
+msgid "I loved how demure you were."
+msgstr ""
+
+#: 001.txt:467
+#. JP: これで最後だから。
+msgid "...Because this will be the last time."
+msgstr ""
+
+#: 001.txt:474
+#. JP: これを振り下ろせば忘れてしまうのだから。
+msgid "Because when I swing this down, I'll forget."
+msgstr ""
+
+#: 001.txt:481
+#. JP: 君に贈る、…俺からの、
+msgid "This is... my..."
+msgstr ""
+
+#: 001.txt:488
+#. JP: 最初で最後の
+msgid "First and last..."
+msgstr ""
+
+#: 001.txt:492
+#. JP: 花束。
+msgid "bouquet for you."
+msgstr ""
+
+#: 001.txt:505
+#. JP: ひょっとすると、…俺は君の事が、
+msgid "Perhaps... I really did..."
+msgstr ""
+
+#: 001.txt:512
+#. JP: …………………………………
+msgid "..."
+msgstr ""
+
+#: 001.txt:517
+#. JP: 好きだった。
+msgid "...love you."
+msgstr ""
